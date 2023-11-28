@@ -1,6 +1,4 @@
-# Hospitality-Domain
-
-# How Data Analysts Build Dashboard in Real Time? | Revenue Insights | Hospitality Domain 
+#  Revenue Insights | Hospitality Domain 
 
 ## Problem Statement
 
